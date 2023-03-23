@@ -1,0 +1,50 @@
+body{
+    font-family:Abel;
+    font-size:15pt;
+    background-color: #979fff;
+    color: #ffe999
+}
+
+h1, h1, h3, h4, h5, h6 {
+    font-family:"Cabin";
+    font-size:30pt; 
+}
+
+header {
+    text-align: center;
+}
+
+#Intro img {
+    width:500px;
+}
+
+#Resume img {
+    text-align: center;
+    
+    width: 500px;
+}
+
+#Reviews img {
+
+    width: 500px;
+}
+
+#Intro {
+    background-color: #505791;
+    padding:10px;
+}
+
+#Resume {
+ text-align: center;
+
+}
+
+#Reviews {
+    text-align: center;
+    background-color: #505791;
+    padding: 10px;
+}
+
+#TheFacts {
+background-color: #505791;
+}
